@@ -1,0 +1,17 @@
+# Cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bancos de dados locais
+*.db
+*.sqlite3
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Metadados do Windows/WSL
+*Zone.Identifier
