@@ -78,3 +78,4 @@ Isso é um problema grave porque um usuário mal-intencionado pode digitar um "c
 
 ### O risco de deixar a segurança para o final
 Na minha opinião, esperar até o fim do desenvolvimento para pensar em segurança é uma aposta muito arriscada. Quando falhas estruturais são descobertas apenas nas vésperas de entregar o projeto, corrigi-las costuma ser muito mais difícil, demorado e caro, pois pode exigir que a equipe reescreva grandes partes do código. Além disso, com a pressão para entregar o sistema no prazo, existe o risco de a equipe decidir ignorar algumas falhas para lançar logo o produto, expondo os usuários a ataques e colocando a reputação do projeto em risco. Integrar a segurança desde o primeiro dia evita que problemas pequenos se tornem falhas catastróficas.
+# Teste de Pull Request para validar o CI
